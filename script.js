@@ -31,13 +31,13 @@ apiHit();
             }
         },
         series: [{
-            name: 'USD',
+            name: 'USD ($)',
             data: []
         }, {
-            name: 'GBP',
+            name: 'GBP (£)',
             data: []
         }, {
-            name: 'EUR',
+            name: 'EUR(€)',
             data: []
         }],
         responsive: {
